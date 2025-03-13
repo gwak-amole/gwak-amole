@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hello 👋
 
+- 🫡 I'm currently working on a daily math exercise app to aid my school's middle school curriculum
+- 😮‍💨 I'm currently learning Swift, SwiftUI, c++, and Python
 <!--
-**gwak-amole/gwak-amole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
